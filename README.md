@@ -1,6 +1,10 @@
 # free-code-camp-projects
 All of the freeCodeCamp projects I've done.
 
+### Context
+
+freeCodeCamp is a non-profit organization dedicated to making web development, data analysis, interview prep, and machine learning accessible to anyone. The organization's courses also include some projects and challenges to do, in which I'm currently completing to prevent my already-learned skills from atrophying since I left. 
+
 ### Responsive Web Design
 
 1. [Tribute Page (Shigasato Itoi)](https://codepen.io/cellehcim/pen/YzZgBxO)

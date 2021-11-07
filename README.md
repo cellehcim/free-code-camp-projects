@@ -1,9 +1,11 @@
 # free-code-camp-projects
 All of the freeCodeCamp projects I've done.
 
-### Context
+## Context
 
-freeCodeCamp is a non-profit organization dedicated to making web development, data analysis, interview prep, and machine learning accessible to anyone. The organization's courses also include some projects and challenges to do, in which I'm currently completing to prevent my already-learned skills from atrophying since I left. 
+freeCodeCamp is a non-profit organization dedicated to making web development, data analysis, interview prep, and machine learning accessible to anyone. The organization's courses also include some projects and challenges to do, in which I'm currently completing to prevent my already-learned skills from atrophying since I graduated from BCIT. 
+
+## Index
 
 ### Responsive Web Design
 

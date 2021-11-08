@@ -3,7 +3,10 @@ All of the freeCodeCamp projects I've done.
 
 ## Context
 
-freeCodeCamp is a non-profit organization dedicated to making web development, data analysis, interview prep, and machine learning accessible to anyone. The organization's courses also include some projects and challenges to do, in which I'm currently completing to prevent my already-learned skills from atrophying since I graduated from BCIT. 
+freeCodeCamp is a non-profit organization dedicated to making web development, data analysis, interview prep, and machine learning accessible to anyone. The organization's courses also include some projects and challenges to do, in which I'm currently completing to:
+1. Learn new skills not learned in BCIT courses and/or at hackathons. This was how I familiarized myself with React, Redux, and Mongoose/MongoDB. 
+2. Apply my UI/UX skills learned from one internship to actual code.  
+3. Prevent my already-learned skills from atrophying since I graduated from BCIT. 
 
 ## Index
 

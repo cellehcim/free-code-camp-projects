@@ -14,6 +14,9 @@ freeCodeCamp is a non-profit organization dedicated to making web development, d
 
 1. [Tribute Page (Shigasato Itoi)](https://codepen.io/cellehcim/pen/YzZgBxO)
 2. [Survey (Party Invitation/RSVP)](https://codepen.io/cellehcim/pen/wvJOOgz)
+3. Landing Page (#TODO)
+4. Technical Documentation (#TODO)
+5. [Personal Portfolio](https://codepen.io/cellehcim/pen/NWvzVpm)
 
 ### Back End + APIs
 
